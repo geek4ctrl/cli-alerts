@@ -1,5 +1,5 @@
 {
-  "name": "cli-alerts",
+  "name": "cli-alertss",
   "version": "1.0.0",
   "description": "Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Works on macOS, Linux, and Windows",
   "license": "MIT",
